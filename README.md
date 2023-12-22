@@ -13,8 +13,12 @@ git clone https://github.com/web3even/pnlsni
 </br>
 ----------------------------------------------------------</br>
 </br>
-[TELEGRAM](https:t.me/it3even)
+@it3even
 </br>
-[CONTACT ME](https://t.me/titanzeusbot)
+<a href"(https://t.me/it3even">TELEGRAM CHANNEL</a>
+</br>
+<a href"[Link](https://t.me/titanzeusbot)">CONTACT ME</a>
+</br>
+@titanzeusbot
 </br>
 <a href"https://it3even.link">website</a>
